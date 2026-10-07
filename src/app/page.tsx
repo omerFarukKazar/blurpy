@@ -26,6 +26,15 @@ export default function Home() {
             </a>
           </Button>
         </div>
+
+        <p className="text-muted-foreground mt-10 flex justify-center gap-6 text-sm">
+          <a href="/privacy/" className="hover:text-foreground">
+            Privacy
+          </a>
+          <a href="/support/" className="hover:text-foreground">
+            Support
+          </a>
+        </p>
       </div>
     </main>
   );

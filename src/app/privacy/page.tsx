@@ -120,7 +120,7 @@ export default function Privacy() {
 
       <h2>Notifications</h2>
       <p>
-        If you allow them, Blurpy schedules a weekly reminder. It is a local
+        If you allow them, Blurpy schedules a reminder at the interval you choose (every 7 or 30 days). It is a local
         notification created on your device. Nothing is sent to a server.
       </p>
 
