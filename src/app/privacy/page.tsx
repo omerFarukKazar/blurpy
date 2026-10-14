@@ -16,10 +16,11 @@ export default function Privacy() {
         short version: your photos stay on your phone.
       </p>
 
-      <h2>Who is responsible</h2>
+      <h2>Who we are</h2>
       <p>
-        Blurpy is developed by Ömer Faruk Kazar, an individual developer based
-        in Türkiye. For this policy he is the data controller. Contact:{" "}
+        Blurpy is made by an independent developer based in Türkiye
+        (&ldquo;we&rdquo;), who is the data controller for this policy and is
+        named as the seller on Blurpy&apos;s App Store page. Contact:{" "}
         <a href="mailto:hello@blurpy.app">hello@blurpy.app</a>.
       </p>
 
